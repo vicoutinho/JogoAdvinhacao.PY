@@ -4,7 +4,7 @@
 
 ## 🗒️Sobre o projeto 
 
-Este projeto foi criado com o intuito de treinar a logica de programação com Python. Foi criado um jogo onde temos que advinhar o numero entre o valor escolhido no inicio do jogo, quando acerta o numero é calculado a quantidade de tentativas.
+O projeto foi criado com o intuito de treinar a logica de programação com Python. Foi criado um jogo onde temos que advinhar o numero entre o valor escolhido no inicio do jogo, quando acerta o numero é calculado a quantidade de tentativas.
 ---
 
 ## 💻Tecnologias Utilizadas
